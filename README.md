@@ -14,7 +14,7 @@ chmod +x "/tmp/$APP"
 sudo mv "/tmp/$APP" "/usr/local/bin/$APP"
 echo -e "\033[32mBy aPpLegUo\033[0m"
 ```
-### run this ↑
+#### or run this ↓
 1. download it from [here](
     https://github.com/appleguo2015/PotatoAscii/releases
 ) or bash download.sh at [here](
