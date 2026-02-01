@@ -4,7 +4,12 @@ it just can show ascii in terminal
 ## How To Use
 1. download it from [here](
     https://github.com/appleguo2015/PotatoAscii/releases
+) or bash download.sh at [here](
+    https://github.com/appleguo2015/PotatoAscii/blob/master/download.sh
 )
+``` bash
+./download.sh
+```
 2. run it
 ```bash
 ./paf <file>
